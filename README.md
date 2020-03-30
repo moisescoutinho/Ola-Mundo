@@ -3,4 +3,4 @@
 
  Repositório criado durante a 1ª aula do curso Git e GitHub
 
- Linha adicionada no site.
+ Linha adicionada no site de forma remota.
